@@ -3,7 +3,7 @@
 This is used so users can login and know when they need to take their medication.
 
 ## Getting Started
-
+Make sure you have 'Xammp' Application and a browser.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### PHP Config File
