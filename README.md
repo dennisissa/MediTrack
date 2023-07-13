@@ -1,6 +1,7 @@
 # MediTrack Web App
+# About
 
-This is used so users can login and know when they need to take their medication.
+Welcome to the MediTrack repository! This application aims to help users effectively manage their medications, improve medication adherence, and enhance patient outcomes. The repository contains all the necessary code and resources to run the application.
 
 ## Getting Started
 Make sure you have 'Xammp' Application and a browser.
@@ -19,6 +20,13 @@ $dbpass = ''; // password
 ### SQL Statements
 
 Import the sql file in the 'sql.zip' 
+
+###Features
+-Medication scheduling: Users can easily manage their medication schedules and set reminders for timely intake.
+-Medication information: Access comprehensive information about prescribed medications, including dosage, instructions, and potential side effects.
+-Prescriptions: Input prescription directly or be assigned by a doctor
+-Appointment management: Schedule, reschedule, or cancel appointments with healthcare providers and receive reminders for upcoming appointments.
+-Health tracking and monitoring: Monitor and track health parameters, log symptoms, and set personal health goals.
 
 ## Owners
 
