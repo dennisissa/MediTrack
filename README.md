@@ -22,11 +22,11 @@ $dbpass = ''; // password
 Import the sql file in the 'sql.zip' 
 
 ### Features
--Medication scheduling: Users can easily manage their medication schedules and set reminders for timely intake.
--Medication information: Access comprehensive information about prescribed medications, including dosage, instructions, and potential side effects.
--Prescriptions: Input prescription directly or be assigned by a doctor
--Appointment management: Schedule, reschedule, or cancel appointments with healthcare providers and receive reminders for upcoming appointments.
--Health tracking and monitoring: Monitor and track health parameters, log symptoms, and set personal health goals.
+**Medication scheduling: Users can easily manage their medication schedules and set reminders for timely intake.**
+**Medication information: Access comprehensive information about prescribed medications, including dosage, instructions, and potential side effects.**
+**Prescriptions: Input prescription directly or be assigned by a doctor**
+**Appointment management: Schedule, reschedule, or cancel appointments with healthcare providers and receive reminders for upcoming appointments.**
+**Health tracking and monitoring: Monitor and track health parameters, log symptoms, and set personal health goals.**
 
 ## Owners
 
