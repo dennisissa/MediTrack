@@ -4,6 +4,7 @@
 Welcome to the MediTrack repository! This application aims to help users effectively manage their medications, improve medication adherence, and enhance patient outcomes. The repository contains all the necessary code and resources to run the application.
 
 ## Getting Started
+# Installation
 Make sure you have 'Xammp' Application and a browser.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
