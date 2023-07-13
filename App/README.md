@@ -19,8 +19,6 @@ $dbpass = ''; // password
 ### SQL Statements
 
 Import the sql file in the 'sql.zip' 
-## Screenshots
-
 
 ## Owners
 
@@ -30,5 +28,5 @@ Import the sql file in the 'sql.zip'
 
 (https://github.com/ArrobeFr) - the source code for the calendar.
 
-## License
+
 
