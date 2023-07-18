@@ -1,4 +1,4 @@
-# MediTrack Web App
+# MediTrack Web Application
 # About
 
 Welcome to the MediTrack repository! This application aims to help users effectively manage their medications, improve medication adherence, and enhance patient outcomes. The repository contains all the necessary code and resources to run the application.
