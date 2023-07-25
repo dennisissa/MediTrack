@@ -73,12 +73,7 @@ if(isset($_SESSION['nologin']))
     </div>
   </div>
 
-  <div class="footer">
-    <div class="wrapper">
-      <p>Dennis Issa Onyango x Jane Mwangi</p>
-
-    </div>
-  </div>
+ 
 </div>
 
   </body>
