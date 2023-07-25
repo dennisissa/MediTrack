@@ -18,9 +18,16 @@ $dbuser = ''; // username
 $dbpass = ''; // password
 ```
 
-### SQL Statements
+### SQL 
 
 Import the sql file in the 'sql.zip' 
+
+### Accessing admin 
+In your browser search :localhost/project/admin
+
+## Admin login details
+username:admin1 password:pass
+username:admin2 password:password
 
 ### Features
 - **Medication scheduling: Users can easily manage their medication schedules and set reminders for timely intake.**
